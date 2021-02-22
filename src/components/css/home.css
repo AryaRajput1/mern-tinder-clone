@@ -1,0 +1,23 @@
+.Home{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+display: flex;
+flex-direction: column;
+justify-content: space-between; 
+}
+.header,.footer{
+display: flex;
+    margin: 20px auto;
+    border: 1px solid black;
+    width: 90%;
+    height: 10vh;
+    justify-content: space-between;
+}
+.header img {
+    height:95%;
+    width: 40px;
+    object-fit: contain;
+}
+
+
