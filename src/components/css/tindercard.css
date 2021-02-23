@@ -1,0 +1,20 @@
+.tindercard{
+    position: relative;
+    height: 100%;
+}
+.card{
+    position: absolute;
+  
+    left: -200px;
+    
+  width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px -20px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   }
+.card h4{
+    margin: 10px;
+}
